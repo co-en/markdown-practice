@@ -8,6 +8,6 @@
 [Youtube - Introduction to Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 ## About Me
-- Tennis Team
-- Bowling Team
+- **Tennis Team**
+- *Bowling Team*
 - 4 Siblings
