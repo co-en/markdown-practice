@@ -8,7 +8,7 @@
 [Youtube - Introduction to Python](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 '''
-print(first name)
+print(Tennis)
 '''
 
 ## About Me
